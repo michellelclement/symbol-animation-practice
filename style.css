@@ -25,9 +25,20 @@ h1 {
 }
 
 .container {
-    
     padding: 4rem;
     background-color: #ffe500;
     border-radius: 5px;
     width: 500px;
+}
+
+
+.speaker-svg-container {
+    position: absolute;
+    top: 20%;
+    left: 15%;
+    overflow: visible;
+}
+
+.speaker-svg {
+    overflow: visible;
 }
